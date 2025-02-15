@@ -1,3 +1,2 @@
-# References
+conflicting changes
 
-* octocat 1 😈
